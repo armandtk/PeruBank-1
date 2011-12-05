@@ -14,7 +14,7 @@ public class AdmClientes {
 		this.clientes = new ArrayList<Cliente>();
 	}
 	
-	
+	//no quiero modifgicar esto jeje
 	public void registrarCliente(String codigo, String ruc, String razonSocial,
 			String fechaInicio, String tipoEmpresa, int empleados) 
 			throws ClienteException{
